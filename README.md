@@ -1,16 +1,30 @@
-## Hi there 👋
+# hey there!!
+## important stuffs
 
-<!--
-**bebeday10/bebeday10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>[!IMPORTANT]
+> penguins are the best
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+this is the **bebeday10** profile!!!! make sure you know it[^1]!!!
+
+## random stuff you may skip
+
+|banana|greatness|healthy|empire|
+|---|---|---|---|
+|good one|awesome|really|no.|
+|penguin eating|ok|ok|yes|
+|really bad ones|awful|no nutrients|biggest empire|
+
+i code using [python](https://python.org).
+
+currently a beginner in python, have made awesome stuff that isn't public
+
+isn't public because they arent good
+1. you see penguin
+2. enhance
+    1. banana
+    
+
+
+[^1]: well you don't really need to.
+
