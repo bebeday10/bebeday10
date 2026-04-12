@@ -7,12 +7,14 @@
 
 this is the **bebeday10** profile!!!! make sure you know it[^1]!!!
 
+i am a beginner in programming, less than a year and only knows python.
+
 ## random stuff you may skip
 
 |banana|greatness|healthy|empire|
 |---|---|---|---|
 |good one|awesome|really|no.|
-|penguin eating|ok|ok|yes|
+|[penguin](#why-the-penguin-is-so-good) eating|ok|ok|yes|
 |really bad ones|awful|no nutrients|biggest empire|
 
 i code using [python](https://python.org).
@@ -36,6 +38,14 @@ And here's why:
 - Penguins do not eat your soul
 - Penguins can be cuddled
 - well the penguin is superior and no one can deny it.
+
+## things ive made
+
+- some random game about commands
+- a image of a [penguin](#why-the-penguin-is-so-good)
+- fishing
+- this readme 
+
 
     
 
