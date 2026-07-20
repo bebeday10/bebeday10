@@ -44,7 +44,17 @@ And here's why:
 - some random game about commands
 - a image of a [penguin](#why-the-penguin-is-so-good)
 - fishing
-- this readme 
+- this readme
+- PengLang (funny penguin language)
+- a vending machine
+- a coffee machine
+- a karaoke machine
+- a way to link the above 3
+
+## PengLang
+
+please penglang please  
+<https://github.com/bebeday10/penglang>
 
 
     
