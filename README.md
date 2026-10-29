@@ -7,7 +7,7 @@
 
 this is the **bebeday10** profile!!!! make sure you know it[^1]!!!
 
-i am a beginner in programming, less than a year and only knows python.
+i am a banana in programming, 11 months and only knows python.
 
 ## random stuff you may skip
 
@@ -19,7 +19,7 @@ i am a beginner in programming, less than a year and only knows python.
 
 i code using [python](https://python.org).
 
-currently a beginner in python, have made awesome stuff that isn't public
+currently a banana in python, have made awesome stuff that isn't public
 
 isn't public because they arent good
 1. you see [penguin](#why-the-penguin-is-so-good)
